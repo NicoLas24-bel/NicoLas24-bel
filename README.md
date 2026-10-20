@@ -18,7 +18,7 @@ Link Back-end: https://github.com/SobraCero/Backend-Sobracero
 ---
 
 
-#### 2. 🔍 esp3Rag - Buscador Normativo Institucional
+#### 2. 🔍 Sistema Rag - Buscador Normativo Institucional UFRO
 Sistema de Retrieval-Augmented Generation (RAG) para consultar reglamentos universitarios.
 *   **Rol:** Desarrollo de la lógica de procesamiento de lenguaje natural y base de datos vectorial.
 *   **Tecnologías:** Python, Flask, Qdrant, Docker, LLM APIs, AWS EC2.
