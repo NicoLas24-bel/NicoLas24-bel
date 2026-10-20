@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería Informática** enfocado en el desarrollo de soft
 
 ### 🚀 Proyectos Destacados
 
-#### 1. ♻️ Plataforma Sobra Cero
+#### 1. ♻️ SobraCero - Plataforma web para la reducción del desperdicio alimentario
 Plataforma full-stack diseñada bajo arquitectura Cliente-Servidor (Separación Frontend/Backend) basada en el patrón arquitectónico de Micro-núcleo / Monolito Modular, acompañado de un estilo de comunicación RESTful.
 *   **Rol:** Diseño de arquitectura de software e implementación Full-Stack.
 *   **Tecnologías:** Vue.js, TypeScript, Java Spring Boot, PostgreSQL, Docker Compose.
