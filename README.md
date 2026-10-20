@@ -47,7 +47,7 @@ Link: https://github.com/NicoLas24-bel/elt-ecommerce
 ---
 #### 5. 🔍 me-verifier - Verificador de imagen
 Sistema de verificación facial binario (“yo” vs “no-yo”) que utiliza embeddings faciales preentrenados y machine learning para determinar si una imagen corresponde al usuario objetivo.
-*   **Rol:** Entrenar un verificador binario.
+*   **Rol:** Entrenamiento de modelo verificador.
 *   **Tecnologías:** Flask + Gunicorn, PyTorch, scikit-learn, facenet-pytorch, OpenCV.
 
 Link: https://github.com/NicoLas24-bel/Verficador-de-Imagen
